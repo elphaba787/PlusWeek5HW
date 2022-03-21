@@ -59,4 +59,4 @@ currentMin = fixMin(currentMin);
 
 time.innerHTML = `${currentHour}:${currentMin}`;
 
-//Making changes to test GitHub repo. Trying again.
+//Making changes to test GitHub repo.
