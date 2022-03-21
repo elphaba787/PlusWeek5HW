@@ -1,0 +1,15 @@
+h1 {
+  text-align: center;
+}
+h2 {
+  text-transform: capitalize;
+}
+.faded {
+  opacity: 0.8;
+}
+.leadIcon {
+  font-size: 75px;
+}
+.fa-solid {
+  color: blue;
+}
